@@ -1,3 +1,5 @@
+package aulaJava;
+
 public class TemperaturaMedia {
     public static void main(String[] args) {
         double[] temperaturas = {22.5, 24.0, 21.5, 23.0, 25.5, 26.0, 22.0};

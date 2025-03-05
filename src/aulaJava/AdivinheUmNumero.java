@@ -1,4 +1,4 @@
-package calculadora;
+package aulaJava;
 
 import java.util.Scanner;
 import java.util.Random;
